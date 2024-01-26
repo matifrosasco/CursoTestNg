@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-26T11:49:27 ART" name="SuiteDePruebas" finished-at="2024-01-26T11:49:27 ART" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2024-01-26T11:49:27 ART" name="Casos de Prueba Anotacion" finished-at="2024-01-26T11:49:27 ART" duration-ms="53">
+      <class name="com.TestNG.SegundoTest">
+        <test-method signature="pruebaCuatro()[pri:0, instance:com.TestNG.SegundoTest@41c2284a]" started-at="2024-01-26T11:49:27 ART" name="pruebaCuatro" finished-at="2024-01-26T11:49:27 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaCuatro -->
+        <test-method signature="pruebaTres()[pri:0, instance:com.TestNG.SegundoTest@41c2284a]" started-at="2024-01-26T11:49:27 ART" name="pruebaTres" finished-at="2024-01-26T11:49:27 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaTres -->
+      </class> <!-- com.TestNG.SegundoTest -->
+      <class name="com.TestNG.AnotacionesBase">
+        <test-method is-config="true" signature="codigoSuite()[pri:0, instance:com.TestNG.AnotacionesBase@671a5887]" started-at="2024-01-26T11:49:27 ART" name="codigoSuite" finished-at="2024-01-26T11:49:27 ART" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- codigoSuite -->
+        <test-method is-config="true" signature="codigoAntesClase()[pri:0, instance:com.TestNG.AnotacionesBase@671a5887]" started-at="2024-01-26T11:49:27 ART" name="codigoAntesClase" finished-at="2024-01-26T11:49:27 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- codigoAntesClase -->
+        <test-method signature="pruebaDos()[pri:0, instance:com.TestNG.AnotacionesBase@671a5887]" started-at="2024-01-26T11:49:27 ART" name="pruebaDos" finished-at="2024-01-26T11:49:27 ART" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaDos -->
+        <test-method is-config="true" signature="antesDelMetodo()[pri:0, instance:com.TestNG.AnotacionesBase@671a5887]" started-at="2024-01-26T11:49:27 ART" name="antesDelMetodo" finished-at="2024-01-26T11:49:27 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- antesDelMetodo -->
+        <test-method is-config="true" signature="despuesDelMetodo()[pri:0, instance:com.TestNG.AnotacionesBase@671a5887]" started-at="2024-01-26T11:49:27 ART" name="despuesDelMetodo" finished-at="2024-01-26T11:49:27 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- despuesDelMetodo -->
+        <test-method signature="pruebaUno()[pri:0, instance:com.TestNG.AnotacionesBase@671a5887]" started-at="2024-01-26T11:49:27 ART" name="pruebaUno" finished-at="2024-01-26T11:49:27 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaUno -->
+        <test-method is-config="true" signature="antesDelMetodo()[pri:0, instance:com.TestNG.AnotacionesBase@671a5887]" started-at="2024-01-26T11:49:27 ART" name="antesDelMetodo" finished-at="2024-01-26T11:49:27 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- antesDelMetodo -->
+        <test-method is-config="true" signature="despuesDelMetodo()[pri:0, instance:com.TestNG.AnotacionesBase@671a5887]" started-at="2024-01-26T11:49:27 ART" name="despuesDelMetodo" finished-at="2024-01-26T11:49:27 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- despuesDelMetodo -->
+        <test-method is-config="true" signature="codigoDespuesClase()[pri:0, instance:com.TestNG.AnotacionesBase@671a5887]" started-at="2024-01-26T11:49:27 ART" name="codigoDespuesClase" finished-at="2024-01-26T11:49:27 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- codigoDespuesClase -->
+        <test-method is-config="true" signature="codigoDespuesSuite()[pri:0, instance:com.TestNG.AnotacionesBase@671a5887]" started-at="2024-01-26T11:49:27 ART" name="codigoDespuesSuite" finished-at="2024-01-26T11:49:27 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- codigoDespuesSuite -->
+      </class> <!-- com.TestNG.AnotacionesBase -->
+    </test> <!-- Casos de Prueba Anotacion -->
+  </suite> <!-- SuiteDePruebas -->
+</testng-results>

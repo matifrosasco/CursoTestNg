@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteDePruebas">
+  <test thread-count="5" name="Casos de Prueba Anotacion">
+    <classes>
+      <class name="com.TestNG.AnotacionesBase"/>
+      <class name="com.TestNG.SegundoTest"/>
+    </classes>
+  </test> <!-- Casos de Prueba Anotacion -->
+</suite> <!-- SuiteDePruebas -->
